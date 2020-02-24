@@ -1,0 +1,35 @@
+body {
+    font-family: 'Poppins';
+}
+
+.card {
+    border: none;
+}
+
+.container {
+    margin-bottom: 5%;
+}
+
+.container-heading{
+    margin-bottom: 3%;
+}
+
+.see {
+    color: orange;
+}
+
+#cat-image {
+    padding-bottom: 15px;
+    width: 50%;
+}
+
+.categories {
+    margin-bottom: 3%;
+}
+
+.item {
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
